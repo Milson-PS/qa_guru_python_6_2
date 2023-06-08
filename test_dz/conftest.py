@@ -8,4 +8,3 @@ def setup_browser():
     config.window_height = 600
     config.base_url = 'https://www.google.com/ncr'
 
-    yield
